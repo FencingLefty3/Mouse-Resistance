@@ -10,6 +10,7 @@ nav {
   background-color: #131517;
   padding: 10px;
   text-align: center;
+  box-shadow: 2px 0 8px #0004;
 }
 
 nav a {
@@ -23,6 +24,7 @@ nav a {
 nav a:hover {
   background: #f28b58;
   padding: 10px;
+  box-shadow: 2px 0 8px #0004;
 }
 
 main {
