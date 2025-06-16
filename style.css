@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-  background-color: #f28b58;
+  background-color: #131517;
   padding: 10px;
   text-align: center;
 }
@@ -20,7 +20,7 @@ nav a {
 }
 
 nav a:hover {
-  background: #131517;
+  background: #f28b58;
 }
 
 main {
@@ -33,12 +33,12 @@ main {
   display: inline-block;
   margin-top: 10px;
   padding: 10px 20px;
-  background-color: #d67d51;
+  background-color: #f28b58;
   color: white;
   text-decoration: none;
   border-radius: 4px;
 }
 
 .download-btn:hover {
-  background-color: #f28b58;
+  background-color: #d67d51;
 }
