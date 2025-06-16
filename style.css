@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-  background-color: ##f28b58;
+  background-color: #f28b58;
   padding: 10px;
   text-align: center;
 }
@@ -20,7 +20,7 @@ nav a {
 }
 
 nav a:hover {
-  background: #f28b58;
+  background: #131517;
 }
 
 main {
