@@ -15,13 +15,14 @@ nav {
 nav a {
   color: white;
   text-decoration: none;
-  margin: 15 30px;
+  margin: 0 15px;
   font-weight: bold;
   
 }
 
 nav a:hover {
   background: #f28b58;
+  padding: 20px;
 }
 
 main {
